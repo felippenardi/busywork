@@ -43,4 +43,32 @@ module.exports = [
     hours: 5,
     text: 'zerar o Super Mario Bros num Super Nintendo'
   },
+  {
+    hours: 27010,
+    text: 'ver o Cometa Halley uma segunda vez'
+  },
+  {
+    hours: 7200,
+    text: 'cobrir toda a carga horária de uma faculdade de medicina'
+  },
+  {
+    hours: 2088,
+    text: 'Mercúrio dá uma volta completa ao redor do Sol'
+  },
+  {
+    hours: 254040,
+    text: 'Saturno dá uma volta completa ao redor do Sol'
+  },
+  {
+    hours: 18960,
+    text: 'construir uma segunda Torre Eiffel'
+  },
+  {
+    hours: 70080,
+    text: 'construir um outro Telescópio espacial Hubble'
+  },
+  {
+    hours: 1680,
+    text: 'cruzar o Deserto de Sahara nas costas de um camêlo'
+  },
 ];
