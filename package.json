@@ -1,7 +1,7 @@
 {
   "name": "busywork",
   "version": "0.1.0",
-  "homepage": "https://felippenardi.github.io/busywork",
+  "homepage": "https://busyworkorg.github.io/",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build -o gh-pages"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",
